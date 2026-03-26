@@ -1,3 +1,4 @@
+Notion calls disabled by user flag (~/.openclaw/NOTION_DISABLED). Exiting.
 #!/usr/bin/env python3
 import json
 import time
